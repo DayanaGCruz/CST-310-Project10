@@ -15,13 +15,13 @@ Compile
 
 Use the following command to compile the project:
 ```
-        g++ -o Project10 main.cpp -lGL -lGLU -lglut -lGLEW -lglfw -lSOIL -lassimp
+g++ -o Project10 main.cpp -lGL -lGLU -lglut -lGLEW -lglfw -lSOIL -lassimp
 ```
 Run the Simulation
 
 Execute the compiled file to launch:
 ```
-    ./Project10
+./Project10
 ```
 A window should pop up displaying the simulation.
 
