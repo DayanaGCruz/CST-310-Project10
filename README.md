@@ -1,2 +1,2 @@
-g++ main.cpp -o run -lglfw -lGL -lGLEW -lSOIL -lassimp
-./run
+g++ -o Project10 main.cpp -lGL -lGLU -lglut -lGLEW -lglfw -lSOIL -lassimp
+./Project10
