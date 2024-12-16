@@ -14,12 +14,15 @@ Check that your project file (main.cpp) is listed in the output. If it’s not, 
 Compile
 
 Use the following command to compile the project:
-    g++ -o Project10 main.cpp -lGL -lGLU -lglut -lGLEW -lglfw -lSOIL -lassimp
+```
+        ```g++ -o Project10 main.cpp -lGL -lGLU -lglut -lGLEW -lglfw -lSOIL -lassimp
+```
 Run the Simulation
 
 Execute the compiled file to launch:
-
+```
     ./Project10
+```
 A window should pop up displaying the simulation.
 
 Interact with the Simulation
